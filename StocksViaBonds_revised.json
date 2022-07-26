@@ -3,24 +3,24 @@
     {"name": "Wechat", "Ad_Format": "RTB", "value": 101.53, "coefficient": 4.63, "risks": 4},
     {"name": "Douyin", "Ad_Format": "Topview", "value": 47.67, "coefficient": 4.67, "risks": 19},
     {"name": "Red", "Ad_Format": "Openning Screen", "value": 78.36, "coefficient": 6.04, "risks": 13},
-    {"name": "Bilibili", "Ad_Format": "Banner", "value": 85.91, "coefficient": 4.91, "risks": 19},
-    {"name": "Weibo", "Ad_Format": "Banner", "value": 86.47, "coefficient": 0.56, "risks": 22},
-    {"name": "Iqiyi", "Ad_Format": "Pause Ad", "value": 100.86, "coefficient": -0.57, "risks": 21},
-    {"name": "Tencent video", "Ad_Format": "Pause Ad", "value": 36.65, "coefficient": 1.44, "risks": 15},
-    {"name": "Youku", "Ad_Format": "Pause Ad", "value": 34.01, "coefficient": -2.67, "risks": 17},
-    {"name": "Xiaomi TV", "Ad_Format": "Pause Ad", "value": 32.47, "coefficient": 1.78, "risks": 13},
-    {"name": "MG tV", "Ad_Format": "Pause Ad", "value": 52.82, "coefficient": 5.73, "risks": 3}
+    {"name": "Bilibili", "Ad_Format": "B_Banner", "value": 85.91, "coefficient": 4.91, "risks": 19},
+    {"name": "Weibo", "Ad_Format": "W_Banner", "value": 86.47, "coefficient": 0.56, "risks": 22},
+    {"name": "Iqiyi", "Ad_Format": "I_Pause Ad", "value": 100.86, "coefficient": -0.57, "risks": 21},
+    {"name": "Tencent video", "Ad_Format": "T_Pause Ad", "value": 36.65, "coefficient": 1.44, "risks": 15},
+    {"name": "Youku", "Ad_Format": "Y_Pause Ad", "value": 34.01, "coefficient": -2.67, "risks": 17},
+    {"name": "Xiaomi TV", "Ad_Format": "X_Pause Ad", "value": 32.47, "coefficient": 1.78, "risks": 13},
+    {"name": "MG tV", "Ad_Format": "M_Pause Ad", "value": 52.82, "coefficient": 5.73, "risks": 3}
   ],
   "bonds":[
-    {"name": "Baidu", "Ad_Format": "Search_ad", "value": 108.18, "coefficient": 1.70, "risks": 2},
+    {"name": "Baidu", "Ad_Format": "B_Search_ad", "value": 108.18, "coefficient": 1.70, "risks": 2},
     {"name": "Tamll", "Ad_Format": "Chaojituijian", "value": 114.64, "coefficient": -0.26, "risks": 1},
-    {"name": "JD", "Ad_Format": "Search_ad", "value": 52.66, "coefficient": 0.34, "risks": 8},
+    {"name": "JD", "Ad_Format": "J_Search_ad", "value": 52.66, "coefficient": 0.34, "risks": 8},
     {"name": "Douyin", "Ad_Format": "Qianchuan", "value": 75.15, "coefficient": -1.07, "risks": 2},
     {"name": "kuaishou", "Ad_Format": "Jinniu", "value": 110.24, "coefficient": -0.06, "risks": 1},
-    {"name": "Meituan", "Ad_Format": "Banner", "value": 48.21, "coefficient": -0.24, "risks": 3},
-    {"name": "Eleme", "Ad_Format": "Banner", "value": 9.13, "coefficient": -0.10, "risks": 5},
-    {"name": "Hema", "Ad_Format": "Banner", "value": 11.00, "coefficient": 1.09, "risks": 4},
-    {"name": "Walmart", "Ad_Format": "Banner", "value": 8.19, "coefficient": -1.09, "risks": 9},
+    {"name": "Meituan", "Ad_Format": "M_Banner", "value": 48.21, "coefficient": -0.24, "risks": 3},
+    {"name": "Eleme", "Ad_Format": "E_Banner", "value": 9.13, "coefficient": -0.10, "risks": 5},
+    {"name": "Hema", "Ad_Format": "h_Banner", "value": 11.00, "coefficient": 1.09, "risks": 4},
+    {"name": "Walmart", "Ad_Format": "W_Banner", "value": 8.19, "coefficient": -1.09, "risks": 9},
     {"name": "PDD", "Ad_Format": "Search_ad", "value": 10.88, "coefficient": -0.73, "risks": 2}
   ]
 }
