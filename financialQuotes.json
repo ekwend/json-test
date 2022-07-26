@@ -1348,7 +1348,7 @@
   ],
 
   "_comment": "source: http://finance.yahoo.com/q/hp?s=%5EIXIC&a=05&b=4&c=2013&d=01&e=1&f=2016&g=d",
-  "NASDAQ": [
+  "Purchase": [
     {"date": "2016-01-29", "value": 4613.950195},
     {"date": "2016-01-28", "value": 4506.680176},
     {"date": "2016-01-27", "value": 4468.169922},
