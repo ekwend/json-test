@@ -1,5 +1,5 @@
 {
-  "Conversion":[
+  "Awareness":[
     {"name": "Wechat", "Ad_Format": "VTI", "value": 10.15, "coefficient": 4.63, "risks": 4},
     {"name": "Douyin", "Ad_Format": "SCHB", "value": 4.76, "coefficient": 4.67, "risks": 19},
     {"name": "Red", "Ad_Format": "VTV", "value": 7.83, "coefficient": 6.04, "risks": 13},
@@ -11,7 +11,7 @@
     {"name": "Xiaomi TV", "Ad_Format": "FPACX", "value": 3.24, "coefficient": 1.78, "risks": 13},
     {"name": "MG tV", "Ad_Format": "WFC", "value": 5.28, "coefficient": 5.73, "risks": 3}
   ],
-  "bonds":[
+  "Conversion":[
     {"name": "Baidu", "Ad_Format": "MUB", "value": 10.81, "coefficient": 1.70, "risks": 2},
     {"name": "Tamll", "Ad_Format": "LQD", "value": 11.46, "coefficient": -0.26, "risks": 1},
     {"name": "JD", "Ad_Format": "BNDX", "value": 5.26, "coefficient": 0.34, "risks": 8},
