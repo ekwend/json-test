@@ -19,7 +19,7 @@
     {"name": "kuaishou", "Ad_Format": "Jinniu", "value": 110.24, "coefficient": -0.06, "risks": 1},
     {"name": "Meituan", "Ad_Format": "Banner", "value": 48.21, "coefficient": -0.24, "risks": 3},
     {"name": "Eleme", "Ad_Format": "Banner", "value": 9.13, "coefficient": -0.10, "risks": 5},
-    {"name": "Hema": "Banner", "value": 11.00, "coefficient": 1.09, "risks": 4},
+    {"name": "Hema", "Ad_Format": "Banner", "value": 11.00, "coefficient": 1.09, "risks": 4},
     {"name": "Walmart", "Ad_Format": "Banner", "value": 8.19, "coefficient": -1.09, "risks": 9},
     {"name": "PDD", "Ad_Format": "Search_ad", "value": 10.88, "coefficient": -0.73, "risks": 2}
   ]
